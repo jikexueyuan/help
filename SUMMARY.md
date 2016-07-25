@@ -10,6 +10,7 @@
 - 账户设置
     - [认证学员](setting/ca.md)
     - [极客币](setting/jkb.md)
-- 院校
-- 企业
-- 培训机构
+- 合作
+	- [院校](cooperation/ca.md)
+	- [企业](cooperation/ca.md)
+	- [培训机构](cooperation/ca.md)
