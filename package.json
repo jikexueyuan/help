@@ -1,5 +1,6 @@
 {
   "name": "jikebook",
+  "description": "极客book",
   "version": "1.0.0",
   "dependencies": {
     "bash-color": "0.0.4",
