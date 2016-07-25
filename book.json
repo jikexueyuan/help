@@ -1,0 +1,20 @@
+{
+    "root": "./",
+    "title": "极客学院文档",
+
+    "gitbook": ">= 3.0.0",
+
+    "plugins": [
+        "-sharing",
+        "-fontsettings",
+        "-search",
+        "theme-official",
+        "sitemap"
+    ],
+
+    "pluginsConfig": {
+        "sitemap": {
+            "hostname": "http://help.jikexueyuan.com"
+        }
+    }
+}

@@ -1,3 +1,5 @@
+* [简介](README.md)
+
 - [关于](about.md)
 - [新手指南](guide/README.md)
 - 职业学院
