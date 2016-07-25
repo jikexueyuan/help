@@ -1,4 +1,5 @@
 - [关于](about.md)
+- [新手指南](guide/README.md)
 - 职业学院
     - [免费试学](zhiye/try.md)
     - [常见问题](zhiye/faq.md)
@@ -7,4 +8,6 @@
 - 账户设置
     - [认证学员](setting/ca.md)
     - [极客币](setting/jkb.md)
-
+- 院校
+- 企业
+- 培训机构
