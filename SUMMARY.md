@@ -1,4 +1,4 @@
-- [关于我们](README.md)
+- [关于我们](about.md)
 - [新手指南](guide/README.md)
 - [职业学院](zhiye/README.md)
     - [免费试学](zhiye/try.md)
