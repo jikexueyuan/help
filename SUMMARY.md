@@ -1,4 +1,4 @@
-- [关于我们](about.md)
+- [关于](README.md)
 - [新手指南](guide/README.md)
 - [职业学院](zhiye/README.md)
     - [免费试学](zhiye/try.md)
@@ -12,6 +12,7 @@
 	- [院校](cooperation/ca.md)
 	- [企业](cooperation/ca.md)
 	- [培训机构](cooperation/ca.md)
+- [学院简介](about.md)
 - [媒体报道](reports.md)
 - [服务条款](service.md)
 - [版权声明](copycopyright.md)
