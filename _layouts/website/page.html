@@ -56,15 +56,15 @@
                                 {{ page.content|safe }}
                             </div>
 
-                            <hr>
-                            <div class="btn-group btn-group-justified">
+                            <!-- <hr> -->
+                          <!--   <div class="btn-group btn-group-justified">
                                 {% if page.previous and page.previous.path %}
                                 <a class="btn" href="{{ page.previous.path|resolveFile }}"><b>前一页:</b> {{ page.previous.title }}</a>
                                 {% endif %}
                                 {% if page.next and page.next.path %}
                                 <a class="btn" href="{{ page.next.path|resolveFile }}"><b>后一页:</b> {{ page.next.title }}</a>
                                 {% endif %}
-                            </div>
+                            </div> -->
                             {% endblock %}
                         {% endblock %}
                     </div>
@@ -100,4 +100,20 @@
     });
 </script>
 
+
+<script type='text/javascript'>
+  var _vds = _vds || [];
+  window._vds = _vds;
+  (function(){
+    _vds.push(['setAccountId', 'aacd01fff9535e79']);
+    (function() {
+      var vds = document.createElement('script');
+      vds.type='text/javascript';
+      vds.async = true;
+      vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(vds, s);
+    })();
+  })();
+</script>
 {% endblock %}

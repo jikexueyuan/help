@@ -1,6 +1,7 @@
 {
     "root": "./",
-    "title": "极客学院帮助中心",
+    "title": "帮助中心",
+    "logo": "./images/logo.png",
 
     "gitbook": ">= 3.0.0",
 
