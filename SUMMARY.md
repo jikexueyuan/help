@@ -6,8 +6,13 @@
 - [职业学院](zhiye/README.md)
     - [免费试学](zhiye/try.md)
     - [常见问题](zhiye/faq.md)
-- 会员课程
-    - VIP 权限
+- [会员课程](course/README.md)
+    - [分类课程](course/category.md)
+    - [知识体系图](course/path.md)
+    - [职业路径图](course/job.md)
+    - [问答](course/wenda.md)   
+    - [VIP](course/vip.md)
+    - [F码](course/f.md)
 - [账户设置](setting/README.md)
     - [认证学员](setting/ca.md)
     - [极客币](setting/jkb.md)
@@ -18,7 +23,6 @@
 	- [VC/孵化器](cooperation/vc.md)
     - [培训机构](cooperation/ca.md)
 - [学院简介](about.md)
-- [媒体报道](reports.md)
 - [服务条款](service.md)
 - [版权声明](copycopyright.md)
 - [免责声明](disclaimer.md)
