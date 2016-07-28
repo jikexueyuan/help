@@ -20,7 +20,7 @@ VIP 是极客学院为用户推出的专属身份，享有注册用户和认证�
 
 ## 免费观看会员课程    
 
-进入「会员课程」<http://www.jikexueyuan.tv/course/> ，课程卡片右上角显示「VIP」的就是 VIP 专项课程。   
+进入「会员课程」<http://www.jikexueyuan.com/course/> ，课程卡片右上角显示「VIP」的就是 VIP 专项课程。   
 ![](http://com-4jplus-temp.qiniudn.com/2016/07/2016-07-28_20:07:54.jpg)    
 
 ## 下载高清课程视频

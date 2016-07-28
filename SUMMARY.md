@@ -13,7 +13,7 @@
     - [问答](course/wenda.md)   
 - [VIP 特权](vip/README.md)
     - [购买 VIP](vip/buy.md)
-    - [索取 F 码](vip/f.md)
+    - [兑换 F 码](vip/f.md)
 - [账户设置](setting/README.md)
     - [认证学员](setting/ca.md)
     - [极客币](setting/jkb.md)
