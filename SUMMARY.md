@@ -1,16 +1,21 @@
-* [简介](README.md)
-
-- [关于](about.md)
+- [关于](README.md)
 - [新手指南](guide/README.md)
-- 职业学院
+- [职业学院](zhiye/README.md)
     - [免费试学](zhiye/try.md)
     - [常见问题](zhiye/faq.md)
 - 会员课程
     - VIP 权限
-- 账户设置
+- [账户设置](setting/README.md)
     - [认证学员](setting/ca.md)
     - [极客币](setting/jkb.md)
 - 合作
 	- [院校](cooperation/ca.md)
 	- [企业](cooperation/ca.md)
 	- [培训机构](cooperation/ca.md)
+- [学院简介](about.md)
+- [媒体报道](reports.md)
+- [服务条款](service.md)
+- [版权声明](copycopyright.md)
+- [免责声明](disclaimer.md)
+- [加入我们](join.md)
+- [联系我们](contact.md)
