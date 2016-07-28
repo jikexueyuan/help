@@ -56,15 +56,15 @@
                                 {{ page.content|safe }}
                             </div>
 
-                            <hr>
-                            <div class="btn-group btn-group-justified">
+                            <!-- <hr> -->
+                          <!--   <div class="btn-group btn-group-justified">
                                 {% if page.previous and page.previous.path %}
                                 <a class="btn" href="{{ page.previous.path|resolveFile }}"><b>前一页:</b> {{ page.previous.title }}</a>
                                 {% endif %}
                                 {% if page.next and page.next.path %}
                                 <a class="btn" href="{{ page.next.path|resolveFile }}"><b>后一页:</b> {{ page.next.title }}</a>
                                 {% endif %}
-                            </div>
+                            </div> -->
                             {% endblock %}
                         {% endblock %}
                     </div>
