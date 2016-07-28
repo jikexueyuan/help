@@ -136,7 +136,6 @@
     #aboutus .rongyu2 dd:nth-child(4) {
         margin-right: 0
     }
-}
 </style>
 <div id="aboutus">
     <h3>公司简介:</h3>
@@ -296,4 +295,3 @@
         </dd>
     </dl>
 </div>
-
