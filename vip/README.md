@@ -35,6 +35,8 @@ VIP 是极客学院为用户推出的专属身份，享有注册用户和认证�
 
 ![](http://com-4jplus-temp.qiniudn.com/2016/07/2016-07-28_20:12:59.jpg)    
 
-![](http://com-4jplus-temp.qiniudn.com/2016/07/2016-07-28_20:13:43.jpg)  
+![](http://com-4jplus-temp.qiniudn.com/2016/07/2016-07-28_20:13:43.jpg)    
+
+心动不如行动，赶紧去 [购买](http://help.jikexueyuan.com/vip/buy.html) 吧...
 
 
