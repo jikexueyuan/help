@@ -20,7 +20,6 @@
 	- [学校/院校/图书馆](cooperation/academic.md)
     - [企业内训](cooperation/business.md)
     - [培训机构](cooperation/training.md)
-- [学院简介](about.md)
 - [服务条款](service.md)
 - [版权声明](copycopyright.md)
 - [免责声明](disclaimer.md)
