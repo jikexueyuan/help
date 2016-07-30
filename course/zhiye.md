@@ -4,16 +4,16 @@
 
 规划出一个职位从小白到初级、中级，再到高级甚至资深工程师所需要的知识，体系构建更全面、更系统。从易到难，从基础到实战，目标明确，阶段清晰，学习更高效！
 
-<img src="images/course_zhiye_01.png">
+<img src="/images/course_zhiye_01.png">
 
 ### 目前极客学院已有9个职业路径图供学员学习。
 
-<img src="images/course_zhiye_02.png">
+<img src="/images/course_zhiye_02.png">
 
 ### 清晰的路径图概况，明确的阶段规划，完善的图例信息，让每位学员都知道自己正处于什么水平，已经学到了什么程度。
 
-<img src="images/course_zhiye_03.png">
+<img src="/images/course_zhiye_03.png">
 
 ### 继续学习功能，让你再也不用可以记住自己学到哪里，知识学习不间断。
 
-<img src="images/course_zhiye_04png">
+<img src="/images/course_zhiye_04png">
