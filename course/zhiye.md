@@ -16,4 +16,4 @@
 
 ### 继续学习功能，让你再也不用可以记住自己学到哪里，知识学习不间断。
 
-<img src="/images/course_zhiye_04png">
+<img src="/images/course_zhiye_04.png">
