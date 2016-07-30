@@ -8,29 +8,29 @@
 
 课程库左侧的「全部分类」导航一目了然，一级、二级目录可以帮你直接筛选出某一技术方向的全部会员课程。
 
-<img src="images/course_category_01.png">
+<img src="/images/course_category_01.png">
 
 ### 二、根据不同维度筛选课程
 
 #### 1. 根据「课程上线时间」筛选课程
 
-<img src="images/course_category_02.png">
+<img src="/images/course_category_02.png">
 
 #### 2. 根据「课程学习人数」筛选课程
 
-<img src="images/course_category_03.png">
+<img src="/images/course_category_03.png">
 
 #### 3.根据「课程类型」筛选课程
 
 课程类型包含：知识精讲、项目实战
 
-<img src="images/course_category_04.png">
+<img src="/images/course_category_04.png">
 
 #### 4.根据「难度等级」筛选课程
 
 难度等级包含：初级、中级、高级
 
-<img src="images/course_category_05.png">
+<img src="/images/course_category_05.png">
 
 ##### 特别说明：以上多维度筛选方式均支持复合筛选，方便各位用户快速找到想要学习的课程。
 
@@ -40,8 +40,8 @@
 
 #### 1. 矩阵式
 
-<img src="images/course_category_06.png">
+<img src="/images/course_category_06.png">
 
 #### 2. 列表式
 
-<img src="images/course_category_07.png">
+<img src="/images/course_category_07.png">

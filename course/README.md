@@ -29,10 +29,10 @@
 * 实战路径图：以职业发展为导向，按照目录式结构组织课程
 * 系列课程：我们把某位老师一个系列的课程组织到一起帮助用户能够通过前后课程顺序，快速找到需要的课程
 
-<img src="images/course_menu.png">
+<img src="/images/course_menu.png">
 
 ### 学习中遇到问题怎么办
 
 为了帮助学习中遇到问题的用户，我们提供了问答系统，用户可以在学习视频课程的过程中随时以图文的形式提交自己的问题，我们会有专门的老师快速回答问题，解决困难
 
-<img src="images/course_wenda.png">
+<img src="/images/course_wenda.png">

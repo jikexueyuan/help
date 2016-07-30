@@ -4,9 +4,9 @@
 
 规划出一项技术技能从入门到精通所需的全部知识点（视频课程）并按学习的先后顺序排列，初学者可以按照此顺序进行课程学习。
 
-<img src="images/course_path_01.png">
+<img src="/images/course_path_01.png">
 
 ### 极客学院目前已有18个知识体系图供学员学习。
 
-<img src="images/course_path_02.png">
+<img src="/images/course_path_02.png">
 
