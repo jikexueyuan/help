@@ -21,7 +21,7 @@
     - [企业内训](cooperation/business.md)
     - [培训机构](cooperation/training.md)
 - [服务条款](service.md)
-- [版权声明](copycopyright.md)
+- [版权声明](copyright.md)
 - [免责声明](disclaimer.md)
 - [加入我们](join.md)
 - [联系我们](contact.md)
