@@ -37,3 +37,5 @@
 - #### 学习完成证明
   
   某些课程可以获取学习完成证明。
+
+注*：购买职业学院课程后，请进入[学习中心](http://xue.jikexueyuan.com/)>[我的职业](http://xue.jikexueyuan.com/zhiye)，开启学习之旅！
