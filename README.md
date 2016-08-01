@@ -18,7 +18,7 @@
     &emsp;&emsp;帮助用户在最短周期内切实提升职业技能，让学员成为企业抢手的人才，在竞争激烈的社会中获得更有尊严和体面的生活，从而改变自己的命运。
     </p>   
     <h3 class="mart">发展历程:</h3>
-    <img src="http://a1.jikexueyuan.com/home/201607/28/c807/5799b6cb01e24.jpg" width="725" class="jklogo">
+    <img src="/images/readme_history.jpg" width="725" class="jklogo">
     <h3 class="mart">创始人介绍:</h3>
     <div class="ceoinfor">
         <img src="http://a1.jikexueyuan.com/home/201507/17/7ac1/55a88d45ea726.png" width="187" class="headimg">
