@@ -4,6 +4,7 @@
     - [在职人员](guide/zhiye.md)
     - [技术大牛](guide/geek.md)
 - [职业学院](zhiye/README.md)
+    - [在线学习](zhiye/learn.md)
     - [免费试学](zhiye/try.md)
     - [常见问题](zhiye/faq.md)
 - [会员课程](course/README.md)
