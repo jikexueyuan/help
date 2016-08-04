@@ -17,6 +17,7 @@
     - [兑换 F 码](vip/f.md)
 - [认证学员](ca.md)
 - [极客币](jkb.md)
+- [分期付款](fenqi.md)
 - [合作方案](cooperation/README.md)
 	- [学校/院校/图书馆](cooperation/academic.md)
     - [企业内训](cooperation/business.md)
