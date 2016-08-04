@@ -9,7 +9,7 @@
 
 前提：购买就业班课程并全额支付才可分期。
 
-1.登录jiuye.jikexueyuan.com ，选择感兴趣的就业班课程报名；
+1.登录[jiuye.jikexueyuan.com](http://jiuye.jikexueyuan.com/)> ，选择感兴趣的就业班课程报名；
 
 ![](/images/baoming.png) 
 
