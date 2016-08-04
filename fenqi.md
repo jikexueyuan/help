@@ -31,6 +31,10 @@
 
 ![](/images/99pay.png) 
 
-3.手机登录选择的支付平台，支付成功后开班学习。
+3.手机打开分期 App，选择 App 中的扫描功能，扫码上面的二维码；      
+
+![](/images/saomiao.png)    
+
+4.在手机上扫描并支付成功后开班学习。
 
 ![](/images/baomingkaiban.png) 
