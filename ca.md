@@ -9,7 +9,7 @@
 
 ## 怎样成为认证学员？
 
-用户登录后，可以在 [账号设置 - 认证学员](http://my.jikexueyuan.tv/setting/ca/) 申请认证。
+用户登录后，可以在 [账号设置 - 认证学员](http://my.jikexueyuan.com/setting/ca/) 申请认证。
 
 完成认证需要三个步骤：
 
