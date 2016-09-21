@@ -4,17 +4,17 @@
 
 1.请先登录，然后点击头像下拉菜单-账号设置。
 
-![](http://jiuye-res.jikexueyuan.com/others/20160921/db5ef807-5200-4550-b61c-eb48e5337576.png) 
+![](http://jiuye-res.jikexueyuan.com/others/20160921/fb9e0e3a-3bda-4a27-9aa2-9776f273c46f.png) 
 
 2.点击“账号设置”后，选择"账号安全"，如下图，按照页面提示操作即可。
 
 <font color=red>注*：设置密码前，请先绑定邮箱或手机。</font>
 
-![](http://jiuye-res.jikexueyuan.com/others/20160921/103373b6-94da-4b0e-8ed8-359152c775ef.png) 
+![](http://jiuye-res.jikexueyuan.com/others/20160921/c835d495-4575-4f15-b6f7-bae4b8e9dd33.png) 
 
 3.点击“修改登录密码”，选择邮箱or手机验证，输入发送的验证码，点击“验证身份”进入下一步。
 
-![](http://jiuye-res.jikexueyuan.com/others/20160921/96d031ac-265e-4bf6-84fe-4f5de393b5c0.png) 
+![](http://jiuye-res.jikexueyuan.com/others/20160921/ac00a29d-37da-4711-8de4-affb7c64c66f.png) 
 
 4.填写密码，确认修改即可。
 
