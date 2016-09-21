@@ -1,1 +1,5 @@
 # 账号设置
+
+极客学院账号设置页面包括个人资料、我的VIP、我的极客币、我的订单、账号安全、消息设置等菜单。
+
+修改资料、修改密码、设置消息通知等，请点击[my.jikexueyuan.com/setting/user]（http://my.jikexueyuan.com/setting/user/）,进入账号设置进行操作。
