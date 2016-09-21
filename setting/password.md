@@ -27,7 +27,7 @@
 
 ![](http://jiuye-res.jikexueyuan.com/others/20160921/270b699a-cd3c-45c6-bd3d-6f6a145ed2d3.png) 
 
-2. 找回密码页面如图，在此可以选择自己的找回方式。
+2.找回密码页面如图，在此可以选择自己的找回方式。
 
 ![](http://jiuye-res.jikexueyuan.com/others/20160921/44eeef72-f45f-4bde-b3a5-635fe34babab.png) 
 
