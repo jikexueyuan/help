@@ -14,7 +14,7 @@
 
 3.点击“修改登录密码”，选择邮箱or手机验证，输入发送的验证码，点击“验证身份”进入下一步。
 
-![](http://jiuye-res.jikexueyuan.com/others/20160921/9354752a-4b49-4dc7-9335-363e9587dc44.png) 
+![](http://jiuye-res.jikexueyuan.com/others/20160921/96d031ac-265e-4bf6-84fe-4f5de393b5c0.png) 
 
 4.填写密码，确认修改即可。
 
