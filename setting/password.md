@@ -18,7 +18,7 @@
 
 4.填写密码，确认修改即可。
 
-![](http://jiuye-res.jikexueyuan.com/others/20160921/4427d8a7-c9ec-4fe7-9d54-340212db5109.png) 
+![](http://jiuye-res.jikexueyuan.com/others/20160921/ad413c68-028f-416b-a945-54e0d8d16cb6.png) 
 
 
 ###二、忘记密码怎么找回？
