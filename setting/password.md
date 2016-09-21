@@ -23,7 +23,7 @@
 
 ###二、忘记密码怎么找回？
 
-1.在登录页面[passport.jikexueyuan.com/sso/login]（http://passport.jikexueyuan.com/sso/login），点击"忘记密码"。
+1.在登录页面（http://passport.jikexueyuan.com/sso/login）,点击"忘记密码"。
 
 ![](http://jiuye-res.jikexueyuan.com/others/20160921/270b699a-cd3c-45c6-bd3d-6f6a145ed2d3.png) 
 
