@@ -17,6 +17,7 @@
     - [兑换 F 码](vip/f.md)
 - [认证学员](ca.md)
 - [极客币](jkb.md)
+- [支付常见问题](pay.md)
 - [分期付款](fenqi.md)
 - [消息通知](message.md)
 - [账号设置](setting/README.md)
