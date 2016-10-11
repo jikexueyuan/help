@@ -2,7 +2,6 @@
 
 <link rel="stylesheet" href="assets/website/page_about.css">
 <div id="aboutus">
-    <img src="http://a1.jikexueyuan.com/home/201604/21/ecfb/571882857e868.png" width="656" class="jklogo">
     <p>&emsp;&emsp;极客学院是IT职业教育线上新型大学。由联合创始人靳岩、姚尚朗创立于北京中关村。致力于“让IT学习更有效”，以实战为特色，为注重自我提升的IT从业者提供高品质职业教育。</p>
     <p>&emsp;&emsp;极客学院职业培训涵盖前端，后端，移动全品类。Web、Java、Python、Go、iOS、Android、PHP等各学科依据职业需求设计课程，根据个人学习计划提供视频、图文、答疑、一对一作业批改、推荐就业等服务。</p>
     <p>&emsp;&emsp;极客学院是业界课程更新速度最快、涵盖范围最广、技术内容最新的IT职业教育平台。创下7小时极速发布最新技术内容的纪录，垄断了中国大陆几乎所有最新技术和最热应用课程的首发。学院提供超过2500门IT技术课程，10000以上课时设置，累计学习用户超过300万。</p>
